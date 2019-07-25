@@ -29,6 +29,6 @@ yarn run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### 基于  和 Handsontable
+### 基于  
 * [js-xlsx](https://github.com/SheetJS/js-xlsx)
 * [handsontable](https://github.com/handsontable/handsontable)

@@ -14,7 +14,7 @@
     "element-ui": "^2.10.1",
     "handsontable": "^7.1.0",
     "vue": "^2.6.10",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
